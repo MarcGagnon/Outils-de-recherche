@@ -1,2 +1,2 @@
-# Outils-de-recherche
-Outils de recherche de la bibiliothèque du Collège Lionel-Groulx
+# Outils et méthodes de recherche
+Outils de recherche sur le Web et de la bibiliothèque du Collège Lionel-Groulx
